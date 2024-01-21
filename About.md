@@ -1,0 +1,3 @@
+# Details
+<p>Every year in the winters, Stray (assuming dogs mainly-coz I have seen puppies in distress) animals are left with no care, out in the cold roads in freezing temperatures, with very little food & hospitality available for them.</p><p> Many a times, it can be seen that young puppies roaming around places where they shouldn't be, just because their mother/sibling died in front of them. </p><p>Mostly by runovers by vehicles.
+<p>This is to get news of distressed animals & transfer them in safe hands or to raise funds for their well-being or even adoption-they too deserve love & care!</p>

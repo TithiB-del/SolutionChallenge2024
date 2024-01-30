@@ -24,23 +24,34 @@ Reference to the problem- <ul> <li>https://www.india.com/news/india/stray-dog-me
 
 
 # Please specify what kind of help you need help in your project? 
-<p>Technical, Guidance on the future of the project</p>
+<p>Technical, Guidance on the future of the project, & whether it can be migrated into an entreprenaurial venture.</p>
 
 # Describe the architecture that your team chose for your solution. What are the high-level components of your architecture? What is the responsibility of each component?
-<p>Apparently, a website.
+<p>Apparently, a website, with plain HTML & CSS.<br>
+I have plans to build a detailed website, which will serve as a point of information as well as a point to communicate important information, like 
+<ul>
+<li>Report an incident to report an incident like a particular stray is in severe distress, needing immediate help</li>
+<li>Find Vets nearby for the strays incase they fall sick & are abandoned</li>
+<li>Contact Emergency Services incase any stray has gone rabid 7 is attacking people</li>
+<li>Raise Funds for our furry friends' wellbeing on behalf of NGOs</li>
+<li>Update Information on rescued strays so that the people who reported their distress are lauded for their efforts</li>
+<li>Donate/Organise events for strays’ wellbeing like camps</li>
+<li>Upload Pictures or Videos of Animal abuse/stray in need of immediate help to help citizens upload genuine proof that something needs immediate intervention</li>
+<li>Find foster care nearby for people who might wanna give up previously owned pets</li>
+<li>Appeal for Adoption get new but previously owned pets</li>
 
 # Which specific products and platforms did you choose to implement these components and why?
-<p>Google cloud for web hosting,
+<p>Google cloud for web hosting, github to store code, I plan to migrate it to kotlin & use kotlin multiplatform once my examinations are over. The prototype was made in Figma.
 
 # Highlight one challenge you faced while building your code, including detail on how you addressed the issue and the technical decisions and implementations you had to make.
 <p>Time management, brainstorming for a good idea.
 Had end Semester exams in the mix, so had to improvise a lot & come up with the details within a very short while. Hope that the content was put well together!</p>
 
 # Any others challenges you want to highlight from you project?
-<p>nope
+<p>Implementation of all the features, which can be quite challenging & overwhelming at the same time.
 
 # What do you see as the future / next steps for your project? How would you expand your solution to reach a larger audience?
-<p>
+<p>Bringing the website to a finished stage, working on user management system, getting in touch with collaborators,testers &, of course,users to make it happen!
 
 # How do you plan to scale your project further in terms of project features?
-<p>
+<p>I plan to rscale out all the features on a rolling basis. at first, limited features will be available but might scale it up to all of the features if required, with time.

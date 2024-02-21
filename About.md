@@ -51,7 +51,11 @@ Had end Semester exams in the mix, so had to improvise a lot & come up with the 
 <p>Implementation of all the features, which can be quite challenging & overwhelming at the same time.
 
 # What do you see as the future / next steps for your project? How would you expand your solution to reach a larger audience?
-<p>Bringing the website to a finished stage, working on user management system, getting in touch with collaborators,testers &, of course,users to make it happen!
+<p>Bringing the website to a finished stage, working on user management system, getting in touch with collaborators,testers &, of course,users to make it happen! <br>
+I plan to scale out all the features on a rolling basis. at first, limited features will be available but might scale it up to all of the features if required, with time.
 
 # How do you plan to scale your project further in terms of project features?
-<p>I plan to rscale out all the features on a rolling basis. at first, limited features will be available but might scale it up to all of the features if required, with time.
+# Explain how the technical architecture of your solution could support (in its current state or with minor changes) scaling to a larger audience.
+
+# Walk us through the steps you took to test your solution with real users (outside of your team). Provide three specific feedback points you received from real users. What did you learn and how did it help improve your solution? What are three specific things you implemented and improved for your solution based on the feedback from users?
+

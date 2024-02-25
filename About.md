@@ -41,7 +41,8 @@ I have plans to build a detailed website, which will serve as a point of informa
 <li>Appeal for Adoption get new but previously owned pets</li>
 
 # Which specific products and platforms did you choose to implement these components and why?
-<p>Google cloud for web hosting, github to store code, I plan to migrate it to kotlin & use kotlin multiplatform once my examinations are over. The prototype was made in Figma.
+<p>Google cloud for web hosting, github to store code, I plan to migrate it to kotlin & use kotlin multiplatform once my examinations are over. The prototype was made in Figma.<br>
+I plan to migrate it to kotlin & use kotlin multiplatform as it is an unified platform to host websites according to me. I plan to use google maps api, google pay (if available)to make the work smoother.
 
 # Highlight one challenge you faced while building your code, including detail on how you addressed the issue and the technical decisions and implementations you had to make.
 <p>Time management, brainstorming for a good idea.
@@ -56,6 +57,17 @@ I plan to scale out all the features on a rolling basis. at first, limited featu
 
 # How do you plan to scale your project further in terms of project features?
 # Explain how the technical architecture of your solution could support (in its current state or with minor changes) scaling to a larger audience.
+Ktor would support a limited audience. a larger audience might need the usage of spring framework to scale it up to a larger audience.<br>
+Bringing the website to a finished stage, working on user management system, getting in touch with collaborators, testers &, of course, users to make it happen!<br>
+I plan to scale out all the features on a rolling basis. at first, limited features will be available but might scale it up to all of the features if required, with time.
 
 # Walk us through the steps you took to test your solution with real users (outside of your team). Provide three specific feedback points you received from real users. What did you learn and how did it help improve your solution? What are three specific things you implemented and improved for your solution based on the feedback from users?
-
+Asked friends and family about the feasibility of the project. the feedback i recieved-
+-ability to warn dog squads to catch rabid dogs
+-locating places where they could be spayed/neutered to avoid population boom
+-getting an app version
+Learnt a lot about the techniques involved in building a website.
+three specific things I tried to implement and improve for my solution based on the feedback from users are:
+-added contact emergency services section 
+-added raising funds section
+-planned on using kotlin multiplatform, to get supported everywhere.
